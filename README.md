@@ -53,8 +53,8 @@ This project demonstrates a drag-and-drop interaction where learners drag object
 
 ### Screenshots
 
-<<img width="1904" height="896" alt="image" src="https://github.com/user-attachments/assets/3721d265-4465-428a-85d3-e652f8f1fef3" />
-<<img width="1449" height="816" alt="image" src="https://github.com/user-attachments/assets/e2e9de6c-1d3b-4f5b-b124-c6704226a9e1" />
+<img width="1904" height="896" alt="image" src="https://github.com/user-attachments/assets/3721d265-4465-428a-85d3-e652f8f1fef3" />
+<img width="1449" height="816" alt="image" src="https://github.com/user-attachments/assets/e2e9de6c-1d3b-4f5b-b124-c6704226a9e1" />
 ---
 
 ## Technologies Used
