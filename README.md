@@ -1,10 +1,10 @@
-# Interactive E-Learning Projects – Articulate Storyline 360
+<img width="1619" height="910" alt="image" src="https://github.com/user-attachments/assets/c194f33c-45d7-43cd-8886-aff2219c5db6" /># Interactive E-Learning Projects – Articulate Storyline 360
 
 ## Project Overview
 
 This repository showcases two interactive eLearning activities developed using Articulate Storyline 360. These projects demonstrate the use of game-based learning and interactive elements to create engaging and learner-friendly digital experiences.
 
-## 1. Catch Game
+**## 1. Catch Game**
 
 ### Description
 Catch Game is an interactive, game-based activity where learners control a basket to catch falling fruits and achieve the required passing score.
@@ -32,7 +32,7 @@ Catch Game is an interactive, game-based activity where learners control a baske
 
 ---
 
-## 2. Drag and Drop Interactivity
+**## 2. Drag and Drop Interactivity**
 
 ### Description
 This project demonstrates a drag-and-drop interaction where learners drag objects and drop them into their corresponding target areas to complete the activity.
@@ -73,6 +73,68 @@ The purpose of these projects is to demonstrate the development of interactive e
 4. Interact with the activities to explore their functionality.
 
 ---
+
+**# 3. Trivia Game – Category-Based Quiz Activity**
+
+## Project Overview
+
+Trivia Game is an interactive, category-based quiz activity developed using Articulate Storyline 360. Learners can choose questions from different categories and earn points based on the selected question value.
+
+The activity provides an engaging game-based learning experience that encourages knowledge testing and active participation.
+
+## Game Instructions
+
+- Select a category from the available four categories.
+- Choose a question based on its point value (100, 200, 300, or 500 points).
+- Answer the selected question.
+- Earn points for correct answers.
+- Monitor your current score and remaining lives.
+- Reach the target score of 2000 points to pass the game.
+
+## Features
+
+- Four interactive question categories
+- Multiple question point levels
+- Interactive question selection
+- Score tracking
+- Passing score indicator
+- Lives indicator
+- Game-based learning experience
+
+## Screenshots
+
+### Main Game Interface
+
+<img width="1619" height="910" alt="image" src="https://github.com/user-attachments/assets/ffb9afce-f3e8-4386-b7ed-8cb2375e5940" />
+
+### Question Interface
+
+<img width="1625" height="916" alt="image" src="https://github.com/user-attachments/assets/099c6145-a57b-4260-a0c3-0d7bbb0685a9" />
+
+### Feedback Screen
+
+<img width="1629" height="916" alt="image" src="https://github.com/user-attachments/assets/4eed770b-a3a1-4267-9f1c-a4b281c89c99" />
+
+## Technologies Used
+
+- Articulate Storyline 360
+
+## Project Purpose
+
+This project demonstrates the development of a category-based quiz game using Articulate Storyline 360. It showcases skills in designing interactive quiz boards, point-based question selection, score tracking, and engaging game-based learning activities.
+
+## How to View
+
+1. Download or clone this repository.
+2. Open the published `story.html` file in a web browser.
+3. Select a category and question.
+4. Answer questions and track your score.
+5. Try to achieve the target passing score.
+
+---
+
+**Project Category:** Interactive E-Learning / Quiz Game  
+**Developed by:** Devisree
 
 **Project Category:** Interactive E-Learning Development  
 **Author:** Devisree
