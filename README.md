@@ -1,4 +1,4 @@
-<img width="1619" height="910" alt="image" src="https://github.com/user-attachments/assets/c194f33c-45d7-43cd-8886-aff2219c5db6" /># Interactive E-Learning Projects – Articulate Storyline 360
+# Interactive E-Learning Projects – Articulate Storyline 360
 
 ## Project Overview
 
